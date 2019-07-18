@@ -1,9 +1,17 @@
 # Seminar-for-dissertation
 
-#논문세미나 자료
+#논문세미나 요약자료
 
 
-  ### CheolGu  
+
+|이름|        이철구     |       손현조     |      박재현       |      이호진         |
+|---| --------------------- | --------------------- | --------------------- | --------------------- |
+|1.|      [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)     |     [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)     |     [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)     |     [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)      |
+|2.|     First Header      |     First Header      |     First Header      |     First Header      |
+ 
+ 
+ 
+ ### CheolGu  
   1.
   
   ### Hyeoncho  
