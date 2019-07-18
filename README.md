@@ -6,7 +6,7 @@
 
 |이름|        이철구     |       손현조     |      박재현       |      이호진         |
 |---| --------------------- | --------------------- | --------------------- | --------------------- |
-|1.|      [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)     |     [소부류](https://github.com/Seminar-for-dissertation/Hyeoncho/소류.pptx)     |     [소부류](https://github.com/Seminar-for-dissertation/JaeHyun/소부류.pptx)     |     [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)      |
+|1.|      [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)     |     [소부류](https://github.com/Seminar-for-dissertation/Hyeoncho/소부류.pptx)     |     [](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)     |     [논문](https://github.com/Seminar-for-dissertation/JaeHyun/a.txt)      |
 |2.|     First Header      |     First Header      |     First Header      |     First Header      |
  
  
