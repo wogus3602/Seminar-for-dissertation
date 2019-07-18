@@ -1,16 +1,16 @@
-### Seminar-for-dissertation ###
+# Seminar-for-dissertation
 
-논문세미나 자료
+#논문세미나 자료
 
 
-  # CheolGu <br>
+  ### CheolGu <br>
   1.
   
-  # Hyeoncho <br>
+  ### Hyeoncho <br>
   1. 소부류
   
-  # JaeHyun <br>
+  ### JaeHyun <br>
   1.
   
-  # hojin <br>
+  ### hojin <br>
   1.
