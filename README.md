@@ -14,13 +14,13 @@
  ## 학생
  
  ### 이철구(세종대학교 16013084)
-  #### Email : cjfrn0443@gmail.com
+  #### E-mail : cjfrn0443@gmail.com
   
  ### 손현조(세종대학교 17013144)
-  #### Email : iijokv@naver.com
+  #### E-mail : iijokv@naver.com
   
  ### 박재현(세종대학교 16013076)
- #### Email : wogus3602@naver.com
+ #### E-mail : wogus3602@naver.com
   
  ### 류호진(세종대학교 16013092)
- #### Email : solone313@naver.com
+ #### E-mail : solone313@naver.com
