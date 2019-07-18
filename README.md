@@ -1,6 +1,6 @@
 # Seminar-for-dissertation
 
-# 논문세미나 요약자료
+## 논문세미나 요약자료
 
 
 
