@@ -1,5 +1,7 @@
 # Seminar-for-dissertation
 
+논문세미나 자료
+
 
   CheolGu <br>
   1.
