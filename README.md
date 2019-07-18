@@ -3,14 +3,14 @@
 #논문세미나 자료
 
 
-  ### CheolGu <br>
+  ### CheolGu  
   1.
   
-  ### Hyeoncho <br>
+  ### Hyeoncho  
   1. 소부류
   
-  ### JaeHyun <br>
+  ### JaeHyun  
   1.
   
-  ### hojin <br>
+  ### hojin  
   1.
