@@ -1,14 +1,14 @@
 # Seminar-for-dissertation
 
 
-  CheolGu
+  CheolGu <br>
   1.
   
-  Hyeoncho
+  Hyeoncho <br>
   1.
   
-  JaeHyun
+  JaeHyun <br>
   1.
   
-  hojin
+  hojin <br>
   1.
