@@ -7,7 +7,7 @@
   1.
   
   Hyeoncho <br>
-  1.
+  1.소부류
   
   JaeHyun <br>
   1.
